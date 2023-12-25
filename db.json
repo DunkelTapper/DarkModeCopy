@@ -1,0 +1,83 @@
+{
+    "total": {
+        "DateAndTime": "2023/12/15, 12:14:00",
+
+        "currentPowerUnit": "kW",
+
+        "currentPowerValue": 250,
+
+        "efficiencyUnit": "%",
+
+        "efficiencyValue": 50,
+
+        "dailyProductionTotalUnit": "kWh",
+
+        "dailyProductionTotalValue": "150000"
+    },
+
+    "cluster": [
+        {
+            "clusterId": "C001",
+
+            "currentPowerUnit": "kW",
+
+            "currentPowerValue": 250,
+
+            "efficiencyUnit": "%",
+
+            "efficiencyValue": 71,
+
+            "dailyProductionTotalUnit": "kWh",
+
+            "dailyProductionTotalValue": 800
+        },
+
+        {
+            "clusterId": "C002",
+
+            "currentPowerUnit": "kW",
+
+            "currentPowerValue": 200,
+
+            "efficiencyUnit": "%",
+
+            "efficiencyValue": 72,
+
+            "dailyProductionTotalUnit": "kWh",
+
+            "dailyProductionTotalValue": 650
+        },
+
+        {
+            "clusterId": "C003",
+
+            "currentPowerUnit": "kW",
+
+            "currentPowerValue": 300,
+
+            "efficiencyUnit": "%",
+
+            "efficiencyValue": 73,
+
+            "dailyProductionTotalUnit": "kWh",
+
+            "dailyProductionTotalValue": 700
+        },
+
+        {
+            "clusterId": "C004",
+
+            "currentPowerUnit": "kW",
+
+            "currentPowerValue": 450,
+
+            "efficiencyUnit": "%",
+
+            "efficiencyValue": 74,
+
+            "dailyProductionTotalUnit": "kWh",
+
+            "dailyProductionTotalValue": 750
+        }
+    ]
+}
